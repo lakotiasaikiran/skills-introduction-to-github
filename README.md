@@ -6,7 +6,11 @@ Hey lakotiasaikiran!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
-Remember, it's self-paced so feel free to take a break! ☕️
+- **Who is this for**: New developers, new GitHub users, and students.
+- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests while helping you start learning new technologies on GitHub.
+- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
+- **How long**: This exercise takes less than one hour to complete.
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/lakotiasaikiran/skills-introduction-to-github/issues/2)
 
